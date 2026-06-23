@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: notebooks/1_data.ipynb
+- file: notebooks/2_Process_Baseline.ipynb
+- file: notebooks/3_Methods.ipynb
+- file: notebooks/4_Predictability_of_entropy.ipynb
+- file: notebooks/5_Predictability_of_KL_Divergence.ipynb
+- file: notebooks/6_Predicted_Predictability.ipynb
+# - file: notebooks/3_Results.ipynb
