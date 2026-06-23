@@ -17,6 +17,9 @@ The repository represents the supporting information for KL-based predictability
 Published book:
 [https://dankovacek.github.io/divergence_prediction](https://dankovacek.github.io/divergence_prediction)
 
+The purpose of testing this model is to use it for monitoring network analysis.  The network analysis repository that uses the KL divergence model is found here:
+[https://github.com/dankovacek/ungauged_space_evaluation](https://github.com/dankovacek/ungauged_space_evaluation)
+
 ## Setup
 
 Dependencies are managed with [uv](https://docs.astral.sh/uv/).
